@@ -6,3 +6,7 @@ Information about Coding Challenge
     
 ## Kick Start 2020 is underway (Google)
    https://codingcompetitions.withgoogle.com/kickstart?show=progress
+
+## Codingame
+   https://www.codingame.com
+   Visual games contests. 
